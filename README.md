@@ -1,3 +1,1 @@
-some stuff
-some more stuff added
-arbitrary changes
+Simple Git exercises in order to get used to the version control system that is Git!
